@@ -1,0 +1,21 @@
+18:48:38 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/led_toggle.c'
+'Invoking: ARM gcc compiler'
+arm-xilinx-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -I../../gpio_led_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/led_toggle.d" -MT"src/led_toggle.d" -o "src/led_toggle.o" "../src/led_toggle.c"
+'Finished building: ../src/led_toggle.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM gcc linker'
+arm-xilinx-eabi-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/ps7_cortexa9_0/lib -o "gpio_led.elf"  ./src/led_toggle.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM Print Size'
+arm-xilinx-eabi-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  73828	   3120	  22652	  99600	  18510	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+
+18:48:40 Build Finished (took 1s.562ms)
+

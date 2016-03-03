@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="ps_gpio_wrapper.bit" key="ps_gpio_wrapper_hw_platform_0-bitFile"/>
+	<item value="ps_gpio_wrapper_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="" key="ps_gpio_wrapper_hw_platform_0-bmmFile"/>
+	<item value="Local" key="ps_gpio_wrapper_hw_platform_0-target"/>
+</section>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="ps_gpio_wrapper_hw_platform_0-offSet"/>
+	<item value="qspi_single" key="ps_gpio_wrapper_hw_platform_0-flashType"/>
+	<item value="false" key="ps_gpio_wrapper_hw_platform_0-verifyFlash"/>
+	<item value="" key="ps_gpio_wrapper_hw_platform_0-fsblFile"/>
+	<item value="false" key="ps_gpio_wrapper_hw_platform_0-blankCheck"/>
+	<item value="Local" key="ps_gpio_wrapper_hw_platform_0-target"/>
+	<item value="" key="ps_gpio_wrapper_hw_platform_0-imgFile"/>
+</section>

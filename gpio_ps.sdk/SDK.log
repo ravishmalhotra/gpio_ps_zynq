@@ -1,0 +1,794 @@
+11:45:53 INFO  : Processing command line option -hwspec C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+11:45:59 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:44:56 INFO  : ps7_init is completed.
+15:44:56 INFO  : ps7_post_config is completed.
+15:44:56 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:45:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:50:37 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:51:55 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:57:07 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:59:07 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:59:40 INFO  : Processing command line option -hwspec C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+15:59:42 INFO  : Checking for hwspec changes in the project ps_gpio_wrapper_hw_platform_0.
+15:59:42 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+18:51:22 INFO  : Processing command line option -hwspec C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+18:51:25 INFO  : Checking for hwspec changes in the project ps_gpio_wrapper_hw_platform_0.
+18:51:25 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+17:49:54 INFO  : ps7_init is completed.
+17:49:54 INFO  : ps7_post_config is completed.
+17:49:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:54:35 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:54:40 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:55:09 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:58:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:59:50 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:04:07 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:06:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:07:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:07:40 INFO  : ps7_init is completed.
+18:07:40 INFO  : ps7_post_config is completed.
+18:07:40 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:08:34 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:12:48 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:13:09 INFO  : ps7_init is completed.
+18:13:10 INFO  : ps7_post_config is completed.
+18:13:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:16:04 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:16:07 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:21:19 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:23:09 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:24:05 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:24:09 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:24:32 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:24:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:24:58 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:25:00 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:28:14 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:30:01 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:30:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:38:29 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:38:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:39:36 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:40:06 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:40:08 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:40:58 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:41:13 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:41:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:42:20 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:43:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:43:59 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:44:07 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:45:17 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:45:19 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:45:36 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:45:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:53:19 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:53:21 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:55:34 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:55:36 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:56:06 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:56:08 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:57:57 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:57:59 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:00:19 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:00:23 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:01:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:03:48 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:03:58 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:04:01 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:04:28 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:04:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:06:28 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:34:32 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:34:34 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:35:11 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:35:14 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:35:34 INFO  : ps7_init is completed.
+19:35:35 INFO  : ps7_post_config is completed.
+19:35:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:36:48 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:36:50 INFO  : System reset is completed.
+19:36:50 INFO  : ps7_init is completed.
+19:36:51 INFO  : ps7_post_config is completed.
+19:37:40 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:37:43 INFO  : System reset is completed.
+19:37:43 INFO  : ps7_init is completed.
+19:37:43 INFO  : ps7_post_config is completed.
+19:38:03 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:38:04 INFO  : System reset is completed.
+19:38:05 INFO  : ps7_init is completed.
+19:38:05 INFO  : ps7_post_config is completed.
+19:38:52 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:38:54 INFO  : System reset is completed.
+19:38:55 INFO  : ps7_init is completed.
+19:38:55 INFO  : ps7_post_config is completed.
+23:33:12 INFO  : System reset is completed.
+23:33:12 INFO  : ps7_init is completed.
+23:33:12 INFO  : ps7_post_config is completed.
+23:34:36 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:34:38 INFO  : System reset is completed.
+23:34:39 INFO  : ps7_init is completed.
+23:34:39 INFO  : ps7_post_config is completed.
+23:36:37 INFO  : System reset is completed.
+23:36:38 INFO  : ps7_init is completed.
+23:36:38 INFO  : ps7_post_config is completed.
+23:50:35 INFO  : System reset is completed.
+23:50:35 INFO  : ps7_init is completed.
+23:50:35 INFO  : ps7_post_config is completed.
+23:50:37 ERROR : Port COM4 is already in use.
+23:51:44 INFO  : System reset is completed.
+23:51:45 INFO  : ps7_init is completed.
+23:51:45 INFO  : ps7_post_config is completed.
+00:00:45 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+00:00:48 INFO  : System reset is completed.
+00:00:49 INFO  : ps7_init is completed.
+00:00:49 INFO  : ps7_post_config is completed.
+00:02:17 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+00:02:19 INFO  : System reset is completed.
+00:02:20 INFO  : ps7_init is completed.
+00:02:20 INFO  : ps7_post_config is completed.
+10:45:40 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:45:42 INFO  : System reset is completed.
+10:45:42 INFO  : ps7_init is completed.
+10:45:42 INFO  : ps7_post_config is completed.
+10:46:23 INFO  : System reset is completed.
+10:46:23 INFO  : ps7_init is completed.
+10:46:23 INFO  : ps7_post_config is completed.
+10:52:15 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:52:20 INFO  : System reset is completed.
+10:52:20 INFO  : ps7_init is completed.
+10:52:20 INFO  : ps7_post_config is completed.
+10:56:42 INFO  : FPGA configured successfully with bitstream "C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper_hw_platform_0/ps_gpio_wrapper.bit"
+10:56:51 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:56:54 INFO  : System reset is completed.
+10:56:54 INFO  : ps7_init is completed.
+10:56:54 INFO  : ps7_post_config is completed.
+11:04:48 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+11:04:49 INFO  : System reset is completed.
+11:04:50 INFO  : ps7_init is completed.
+11:04:50 INFO  : ps7_post_config is completed.
+11:10:08 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+11:10:10 INFO  : System reset is completed.
+11:10:10 INFO  : ps7_init is completed.
+11:10:10 INFO  : ps7_post_config is completed.
+11:25:41 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+11:25:43 INFO  : System reset is completed.
+11:25:44 INFO  : ps7_init is completed.
+11:25:44 INFO  : ps7_post_config is completed.
+11:27:14 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+11:27:16 INFO  : System reset is completed.
+11:27:16 INFO  : ps7_init is completed.
+11:27:16 INFO  : ps7_post_config is completed.
+11:31:28 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+11:31:29 INFO  : System reset is completed.
+11:31:30 INFO  : ps7_init is completed.
+11:31:30 INFO  : ps7_post_config is completed.
+11:32:07 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+11:32:08 INFO  : System reset is completed.
+11:32:09 INFO  : ps7_init is completed.
+11:32:09 INFO  : ps7_post_config is completed.
+11:53:13 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+11:53:14 INFO  : System reset is completed.
+11:53:14 INFO  : ps7_init is completed.
+11:53:14 INFO  : ps7_post_config is completed.
+11:54:15 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+11:54:16 INFO  : System reset is completed.
+11:54:17 INFO  : ps7_init is completed.
+11:54:17 INFO  : ps7_post_config is completed.
+11:54:59 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+11:55:01 INFO  : System reset is completed.
+11:55:01 INFO  : ps7_init is completed.
+11:55:01 INFO  : ps7_post_config is completed.
+12:14:14 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:14:15 INFO  : System reset is completed.
+12:14:16 INFO  : ps7_init is completed.
+12:14:16 INFO  : ps7_post_config is completed.
+12:15:52 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:15:54 INFO  : System reset is completed.
+12:15:54 INFO  : ps7_init is completed.
+12:15:54 INFO  : ps7_post_config is completed.
+12:18:31 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:18:33 INFO  : System reset is completed.
+12:18:33 INFO  : ps7_init is completed.
+12:18:33 INFO  : ps7_post_config is completed.
+12:31:13 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:31:14 INFO  : System reset is completed.
+12:31:15 INFO  : ps7_init is completed.
+12:31:15 INFO  : ps7_post_config is completed.
+12:32:06 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:32:07 INFO  : System reset is completed.
+12:32:07 INFO  : ps7_init is completed.
+12:32:07 INFO  : ps7_post_config is completed.
+12:32:49 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:32:50 INFO  : System reset is completed.
+12:32:51 INFO  : ps7_init is completed.
+12:32:51 INFO  : ps7_post_config is completed.
+12:34:37 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:34:39 INFO  : System reset is completed.
+12:34:39 INFO  : ps7_init is completed.
+12:34:39 INFO  : ps7_post_config is completed.
+12:36:37 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:36:39 INFO  : System reset is completed.
+12:36:39 INFO  : ps7_init is completed.
+12:36:39 INFO  : ps7_post_config is completed.
+12:49:54 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:49:55 INFO  : System reset is completed.
+12:49:55 INFO  : ps7_init is completed.
+12:49:55 INFO  : ps7_post_config is completed.
+12:51:46 INFO  : System reset is completed.
+12:51:46 INFO  : ps7_init is completed.
+12:51:46 INFO  : ps7_post_config is completed.
+12:53:18 INFO  : System reset is completed.
+12:53:18 INFO  : ps7_init is completed.
+12:53:18 INFO  : ps7_post_config is completed.
+12:55:21 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:55:23 INFO  : System reset is completed.
+12:55:23 INFO  : ps7_init is completed.
+12:55:23 INFO  : ps7_post_config is completed.
+12:59:31 INFO  : System reset is completed.
+12:59:31 INFO  : ps7_init is completed.
+12:59:31 INFO  : ps7_post_config is completed.
+13:30:01 INFO  : System reset is completed.
+13:30:02 INFO  : ps7_init is completed.
+13:30:02 INFO  : ps7_post_config is completed.
+13:30:16 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:30:19 INFO  : System reset is completed.
+13:30:19 INFO  : ps7_init is completed.
+13:30:19 INFO  : ps7_post_config is completed.
+13:41:01 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:41:02 INFO  : System reset is completed.
+13:41:03 INFO  : ps7_init is completed.
+13:41:03 INFO  : ps7_post_config is completed.
+14:54:33 INFO  : System reset is completed.
+14:54:33 INFO  : ps7_init is completed.
+14:54:33 INFO  : ps7_post_config is completed.
+15:09:51 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:09:52 INFO  : System reset is completed.
+15:09:52 INFO  : ps7_init is completed.
+15:09:52 INFO  : ps7_post_config is completed.
+15:19:17 INFO  : System reset is completed.
+15:19:18 INFO  : ps7_init is completed.
+15:19:18 INFO  : ps7_post_config is completed.
+15:21:09 INFO  : System reset is completed.
+15:21:09 INFO  : ps7_init is completed.
+15:21:09 INFO  : ps7_post_config is completed.
+15:21:18 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:21:20 INFO  : System reset is completed.
+15:21:21 INFO  : ps7_init is completed.
+15:21:21 INFO  : ps7_post_config is completed.
+15:26:36 INFO  : System reset is completed.
+15:26:36 INFO  : ps7_init is completed.
+15:26:36 INFO  : ps7_post_config is completed.
+15:28:15 INFO  : System reset is completed.
+15:28:15 INFO  : ps7_init is completed.
+15:28:15 INFO  : ps7_post_config is completed.
+15:28:17 ERROR : Port COM4 is already in use.
+15:33:49 INFO  : System reset is completed.
+15:33:49 INFO  : ps7_init is completed.
+15:33:49 INFO  : ps7_post_config is completed.
+15:42:48 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:43:21 INFO  : Processing command line option -hwspec C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+15:43:23 INFO  : Checking for hwspec changes in the project ps_gpio_wrapper_hw_platform_0.
+15:43:24 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:44:44 INFO  : System reset is completed.
+15:44:44 INFO  : ps7_init is completed.
+15:44:44 INFO  : ps7_post_config is completed.
+15:49:37 INFO  : System reset is completed.
+15:49:37 INFO  : ps7_init is completed.
+15:49:37 INFO  : ps7_post_config is completed.
+16:05:42 INFO  : System reset is completed.
+16:05:42 INFO  : ps7_init is completed.
+16:05:42 INFO  : ps7_post_config is completed.
+16:15:17 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:15:19 INFO  : System reset is completed.
+16:15:19 INFO  : ps7_init is completed.
+16:15:19 INFO  : ps7_post_config is completed.
+16:16:07 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:16:11 INFO  : System reset is completed.
+16:16:11 INFO  : ps7_init is completed.
+16:16:11 INFO  : ps7_post_config is completed.
+16:16:19 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:16:20 INFO  : System reset is completed.
+16:16:20 INFO  : ps7_init is completed.
+16:16:20 INFO  : ps7_post_config is completed.
+16:20:54 INFO  : System reset is completed.
+16:20:54 INFO  : ps7_init is completed.
+16:20:54 INFO  : ps7_post_config is completed.
+16:33:50 INFO  : System reset is completed.
+16:33:50 INFO  : ps7_init is completed.
+16:33:50 INFO  : ps7_post_config is completed.
+16:38:15 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:38:16 INFO  : System reset is completed.
+16:38:16 INFO  : ps7_init is completed.
+16:38:17 INFO  : ps7_post_config is completed.
+16:39:24 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:39:26 INFO  : System reset is completed.
+16:39:26 INFO  : ps7_init is completed.
+16:39:26 INFO  : ps7_post_config is completed.
+16:40:07 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:40:08 INFO  : System reset is completed.
+16:40:08 INFO  : ps7_init is completed.
+16:40:09 INFO  : ps7_post_config is completed.
+16:40:31 INFO  : System reset is completed.
+16:40:31 INFO  : ps7_init is completed.
+16:40:32 INFO  : ps7_post_config is completed.
+17:21:00 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:21:02 INFO  : System reset is completed.
+17:21:02 INFO  : ps7_init is completed.
+17:21:02 INFO  : ps7_post_config is completed.
+17:21:45 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:21:47 INFO  : System reset is completed.
+17:21:47 INFO  : ps7_init is completed.
+17:21:47 INFO  : ps7_post_config is completed.
+18:16:36 INFO  : System reset is completed.
+18:16:36 INFO  : ps7_init is completed.
+18:16:36 INFO  : ps7_post_config is completed.
+18:17:41 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:17:42 INFO  : System reset is completed.
+18:17:43 INFO  : ps7_init is completed.
+18:17:43 INFO  : ps7_post_config is completed.
+21:57:23 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+21:57:26 INFO  : System reset is completed.
+21:57:26 INFO  : ps7_init is completed.
+21:57:26 INFO  : ps7_post_config is completed.
+22:02:12 INFO  : System reset is completed.
+22:02:12 INFO  : ps7_init is completed.
+22:02:12 INFO  : ps7_post_config is completed.
+22:03:21 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:03:23 INFO  : System reset is completed.
+22:03:23 INFO  : ps7_init is completed.
+22:03:23 INFO  : ps7_post_config is completed.
+22:09:32 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:09:34 INFO  : System reset is completed.
+22:09:34 INFO  : ps7_init is completed.
+22:09:34 INFO  : ps7_post_config is completed.
+22:10:23 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:10:24 INFO  : System reset is completed.
+22:10:25 INFO  : ps7_init is completed.
+22:10:25 INFO  : ps7_post_config is completed.
+22:21:07 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:21:09 INFO  : System reset is completed.
+22:21:09 INFO  : ps7_init is completed.
+22:21:09 INFO  : ps7_post_config is completed.
+22:49:07 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:49:09 INFO  : System reset is completed.
+22:49:09 INFO  : ps7_init is completed.
+22:49:09 INFO  : ps7_post_config is completed.
+22:50:22 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:50:24 INFO  : System reset is completed.
+22:50:24 INFO  : ps7_init is completed.
+22:50:24 INFO  : ps7_post_config is completed.
+22:57:06 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:57:07 INFO  : System reset is completed.
+22:57:07 INFO  : ps7_init is completed.
+22:57:07 INFO  : ps7_post_config is completed.
+22:57:27 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:57:29 INFO  : System reset is completed.
+22:57:29 INFO  : ps7_init is completed.
+22:57:29 INFO  : ps7_post_config is completed.
+23:00:14 INFO  : System reset is completed.
+23:00:15 INFO  : ps7_init is completed.
+23:00:15 INFO  : ps7_post_config is completed.
+23:00:25 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:00:26 INFO  : System reset is completed.
+23:00:27 INFO  : ps7_init is completed.
+23:00:27 INFO  : ps7_post_config is completed.
+23:02:31 INFO  : System reset is completed.
+23:02:31 INFO  : ps7_init is completed.
+23:02:31 INFO  : ps7_post_config is completed.
+23:02:51 ERROR : Unable to disconnect from existing targets
+java.lang.NullPointerException
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess.issueCommand(XMDJSONProcess.java:144)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(TM.java:324)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:306)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:210)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$2.run(BundleContextImpl.java:771)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:764)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.stopWorker(BundleHost.java:510)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.suspend(AbstractBundle.java:566)
+	at org.eclipse.osgi.framework.internal.core.Framework.suspendBundle(Framework.java:1206)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.decFWSL(StartLevelManager.java:592)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:257)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.shutdown(StartLevelManager.java:215)
+	at org.eclipse.osgi.framework.internal.core.InternalSystemBundle.suspend(InternalSystemBundle.java:284)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:692)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:600)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+23:02:52 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+23:03:16 INFO  : Processing command line option -hwspec C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+23:03:17 INFO  : Checking for hwspec changes in the project ps_gpio_wrapper_hw_platform_0.
+23:03:18 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+23:05:27 INFO  : System reset is completed.
+23:05:27 INFO  : ps7_init is completed.
+23:05:27 INFO  : ps7_post_config is completed.
+23:06:04 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:06:06 INFO  : System reset is completed.
+23:06:06 INFO  : ps7_init is completed.
+23:06:06 INFO  : ps7_post_config is completed.
+23:06:27 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:06:28 INFO  : System reset is completed.
+23:06:29 INFO  : ps7_init is completed.
+23:06:29 INFO  : ps7_post_config is completed.
+23:07:57 INFO  : System reset is completed.
+23:07:58 INFO  : ps7_init is completed.
+23:07:58 INFO  : ps7_post_config is completed.
+23:09:44 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:09:46 INFO  : System reset is completed.
+23:09:46 INFO  : ps7_init is completed.
+23:09:46 INFO  : ps7_post_config is completed.
+23:14:14 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:14:15 INFO  : System reset is completed.
+23:14:15 INFO  : ps7_init is completed.
+23:14:15 INFO  : ps7_post_config is completed.
+23:14:34 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:14:35 INFO  : System reset is completed.
+23:14:35 INFO  : ps7_init is completed.
+23:14:35 INFO  : ps7_post_config is completed.
+23:16:36 INFO  : System reset is completed.
+23:16:37 INFO  : ps7_init is completed.
+23:16:37 INFO  : ps7_post_config is completed.
+23:17:04 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:17:05 INFO  : System reset is completed.
+23:17:06 INFO  : ps7_init is completed.
+23:17:06 INFO  : ps7_post_config is completed.
+23:20:00 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:20:02 INFO  : System reset is completed.
+23:20:02 INFO  : ps7_init is completed.
+23:20:02 INFO  : ps7_post_config is completed.
+23:23:59 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:24:00 INFO  : System reset is completed.
+23:24:01 INFO  : ps7_init is completed.
+23:24:01 INFO  : ps7_post_config is completed.
+23:25:01 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:25:03 INFO  : System reset is completed.
+23:25:03 INFO  : ps7_init is completed.
+23:25:03 INFO  : ps7_post_config is completed.
+23:28:05 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:28:07 INFO  : System reset is completed.
+23:28:07 INFO  : ps7_init is completed.
+23:28:07 INFO  : ps7_post_config is completed.
+23:45:22 INFO  : System reset is completed.
+23:45:22 INFO  : ps7_init is completed.
+23:45:22 INFO  : ps7_post_config is completed.
+23:48:10 INFO  : System reset is completed.
+23:48:10 INFO  : ps7_init is completed.
+23:48:10 INFO  : ps7_post_config is completed.
+23:48:22 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:48:23 INFO  : System reset is completed.
+23:48:23 INFO  : ps7_init is completed.
+23:48:23 INFO  : ps7_post_config is completed.
+00:01:24 INFO  : System reset is completed.
+00:01:25 INFO  : ps7_init is completed.
+00:01:25 INFO  : ps7_post_config is completed.
+09:47:13 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+09:47:13 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+12:09:16 INFO  : System reset is completed.
+12:09:17 INFO  : ps7_init is completed.
+12:09:17 INFO  : ps7_post_config is completed.
+12:10:33 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:10:35 INFO  : System reset is completed.
+12:10:35 INFO  : ps7_init is completed.
+12:10:35 INFO  : ps7_post_config is completed.
+12:12:16 INFO  : System reset is completed.
+12:12:16 INFO  : ps7_init is completed.
+12:12:16 INFO  : ps7_post_config is completed.
+12:13:28 INFO  : System reset is completed.
+12:13:29 INFO  : ps7_init is completed.
+12:13:29 INFO  : ps7_post_config is completed.
+12:33:10 INFO  : System reset is completed.
+12:33:10 INFO  : ps7_init is completed.
+12:33:10 INFO  : ps7_post_config is completed.
+12:38:20 INFO  : System reset is completed.
+12:38:21 INFO  : ps7_init is completed.
+12:38:21 INFO  : ps7_post_config is completed.
+13:01:21 INFO  : System reset is completed.
+13:01:22 INFO  : ps7_init is completed.
+13:01:22 INFO  : ps7_post_config is completed.
+13:04:35 INFO  : System reset is completed.
+13:04:35 INFO  : ps7_init is completed.
+13:04:35 INFO  : ps7_post_config is completed.
+13:11:28 INFO  : System reset is completed.
+13:11:28 INFO  : ps7_init is completed.
+13:11:28 INFO  : ps7_post_config is completed.
+13:12:21 INFO  : System reset is completed.
+13:12:21 INFO  : ps7_init is completed.
+13:12:21 INFO  : ps7_post_config is completed.
+13:13:36 INFO  : System reset is completed.
+13:13:36 INFO  : ps7_init is completed.
+13:13:36 INFO  : ps7_post_config is completed.
+13:18:45 INFO  : System reset is completed.
+13:18:45 INFO  : ps7_init is completed.
+13:18:45 INFO  : ps7_post_config is completed.
+13:22:24 INFO  : System reset is completed.
+13:22:24 INFO  : ps7_init is completed.
+13:22:24 INFO  : ps7_post_config is completed.
+13:24:46 INFO  : System reset is completed.
+13:24:46 INFO  : ps7_init is completed.
+13:24:46 INFO  : ps7_post_config is completed.
+13:30:29 INFO  : System reset is completed.
+13:30:29 INFO  : ps7_init is completed.
+13:30:29 INFO  : ps7_post_config is completed.
+13:31:32 INFO  : System reset is completed.
+13:31:32 INFO  : ps7_init is completed.
+13:31:33 INFO  : ps7_post_config is completed.
+13:31:47 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:31:48 INFO  : System reset is completed.
+13:31:48 INFO  : ps7_init is completed.
+13:31:48 INFO  : ps7_post_config is completed.
+13:48:19 INFO  : System reset is completed.
+13:48:19 INFO  : ps7_init is completed.
+13:48:19 INFO  : ps7_post_config is completed.
+14:02:54 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:02:56 INFO  : System reset is completed.
+14:02:56 INFO  : ps7_init is completed.
+14:02:56 INFO  : ps7_post_config is completed.
+14:06:33 INFO  : System reset is completed.
+14:06:34 INFO  : ps7_init is completed.
+14:06:34 INFO  : ps7_post_config is completed.
+14:06:59 INFO  : System reset is completed.
+14:06:59 INFO  : ps7_init is completed.
+14:06:59 INFO  : ps7_post_config is completed.
+14:07:59 INFO  : System reset is completed.
+14:07:59 INFO  : ps7_init is completed.
+14:08:00 INFO  : ps7_post_config is completed.
+14:11:16 INFO  : System reset is completed.
+14:11:16 INFO  : ps7_init is completed.
+14:11:16 INFO  : ps7_post_config is completed.
+14:43:07 INFO  : System reset is completed.
+14:43:07 INFO  : ps7_init is completed.
+14:43:07 INFO  : ps7_post_config is completed.
+14:44:11 INFO  : System reset is completed.
+14:44:11 INFO  : ps7_init is completed.
+14:44:11 INFO  : ps7_post_config is completed.
+14:58:17 INFO  : System reset is completed.
+14:58:18 INFO  : ps7_init is completed.
+14:58:18 INFO  : ps7_post_config is completed.
+14:59:31 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:59:33 INFO  : System reset is completed.
+14:59:33 INFO  : ps7_init is completed.
+14:59:33 INFO  : ps7_post_config is completed.
+15:00:18 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:00:19 INFO  : System reset is completed.
+15:00:20 INFO  : ps7_init is completed.
+15:00:20 INFO  : ps7_post_config is completed.
+15:15:20 ERROR : Unable to disconnect from existing targets
+java.lang.NullPointerException
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess.issueCommand(XMDJSONProcess.java:144)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(TM.java:324)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:306)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:210)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$2.run(BundleContextImpl.java:771)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:764)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.stopWorker(BundleHost.java:510)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.suspend(AbstractBundle.java:566)
+	at org.eclipse.osgi.framework.internal.core.Framework.suspendBundle(Framework.java:1206)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.decFWSL(StartLevelManager.java:592)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:257)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.shutdown(StartLevelManager.java:215)
+	at org.eclipse.osgi.framework.internal.core.InternalSystemBundle.suspend(InternalSystemBundle.java:284)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:692)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:600)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+15:15:21 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:18:32 INFO  : Processing command line option -hwspec C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+15:18:34 INFO  : Checking for hwspec changes in the project ps_gpio_wrapper_hw_platform_0.
+15:18:34 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:19:53 INFO  : Processing command line option -hwspec C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+15:19:55 INFO  : Checking for hwspec changes in the project ps_gpio_wrapper_hw_platform_0.
+15:19:56 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:19:57 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1456182968583,  Project:1455133207014
+15:19:57 INFO  : The hardware specification for project 'ps_gpio_wrapper_hw_platform_0' is different from C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+15:19:57 INFO  : Copied contents of C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf into \ps_gpio_wrapper_hw_platform_0\system.hdf.
+15:19:58 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+15:19:59 INFO  : 
+15:20:00 INFO  : Updating hardware inferred compiler options for gpio_led.
+15:20:00 INFO  : Clearing existing target manager status.
+15:21:19 INFO  : FPGA configured successfully with bitstream "C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper_hw_platform_0/ps_gpio_wrapper.bit"
+15:21:30 INFO  : System reset is completed.
+15:21:31 INFO  : ps7_init is completed.
+15:21:31 INFO  : ps7_post_config is completed.
+15:24:17 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:24:18 INFO  : System reset is completed.
+15:24:19 INFO  : ps7_init is completed.
+15:24:19 INFO  : ps7_post_config is completed.
+15:29:38 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:30:10 INFO  : Processing command line option -hwspec C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+15:30:11 INFO  : Checking for hwspec changes in the project ps_gpio_wrapper_hw_platform_0.
+15:30:11 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:30:13 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1456183748986,  Project:1456182968583
+15:30:13 INFO  : The hardware specification for project 'ps_gpio_wrapper_hw_platform_0' is different from C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+15:30:13 INFO  : Copied contents of C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf into \ps_gpio_wrapper_hw_platform_0\system.hdf.
+15:30:13 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+15:30:14 INFO  : 
+15:30:15 INFO  : Updating hardware inferred compiler options for gpio_led.
+15:30:15 INFO  : Clearing existing target manager status.
+16:05:52 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+16:06:17 INFO  : Processing command line option -hwspec C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+16:06:18 INFO  : Checking for hwspec changes in the project ps_gpio_wrapper_hw_platform_0.
+16:06:18 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+16:06:39 INFO  : FPGA configured successfully with bitstream "C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper_hw_platform_0/ps_gpio_wrapper.bit"
+16:07:46 INFO  : System reset is completed.
+16:07:46 INFO  : ps7_init is completed.
+16:07:46 INFO  : ps7_post_config is completed.
+16:23:16 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:23:17 INFO  : System reset is completed.
+16:23:18 INFO  : ps7_init is completed.
+16:23:18 INFO  : ps7_post_config is completed.
+16:24:14 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:24:16 INFO  : System reset is completed.
+16:24:16 INFO  : ps7_init is completed.
+16:24:16 INFO  : ps7_post_config is completed.
+16:29:16 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:29:17 INFO  : System reset is completed.
+16:29:17 INFO  : ps7_init is completed.
+16:29:17 INFO  : ps7_post_config is completed.
+16:37:08 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:37:09 INFO  : System reset is completed.
+16:37:09 INFO  : ps7_init is completed.
+16:37:09 INFO  : ps7_post_config is completed.
+16:37:57 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:37:58 INFO  : System reset is completed.
+16:37:59 INFO  : ps7_init is completed.
+16:37:59 INFO  : ps7_post_config is completed.
+16:47:46 INFO  : System reset is completed.
+16:47:47 INFO  : ps7_init is completed.
+16:47:47 INFO  : ps7_post_config is completed.
+16:51:35 INFO  : System reset is completed.
+16:51:36 INFO  : ps7_init is completed.
+16:51:36 INFO  : ps7_post_config is completed.
+16:58:48 INFO  : System reset is completed.
+16:58:48 INFO  : ps7_init is completed.
+16:58:48 INFO  : ps7_post_config is completed.
+17:01:46 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:01:47 INFO  : System reset is completed.
+17:01:48 INFO  : ps7_init is completed.
+17:01:48 INFO  : ps7_post_config is completed.
+17:02:04 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:02:06 INFO  : System reset is completed.
+17:02:06 INFO  : ps7_init is completed.
+17:02:06 INFO  : ps7_post_config is completed.
+17:03:52 INFO  : System reset is completed.
+17:03:53 INFO  : ps7_init is completed.
+17:03:53 INFO  : ps7_post_config is completed.
+17:04:05 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:04:07 INFO  : System reset is completed.
+17:04:07 INFO  : ps7_init is completed.
+17:04:07 INFO  : ps7_post_config is completed.
+17:07:58 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:08:00 INFO  : System reset is completed.
+17:08:00 INFO  : ps7_init is completed.
+17:08:00 INFO  : ps7_post_config is completed.
+17:12:04 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:12:06 INFO  : System reset is completed.
+17:12:06 INFO  : ps7_init is completed.
+17:12:06 INFO  : ps7_post_config is completed.
+17:12:59 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:13:01 INFO  : System reset is completed.
+17:13:01 INFO  : ps7_init is completed.
+17:13:01 INFO  : ps7_post_config is completed.
+17:16:16 INFO  : System reset is completed.
+17:16:17 INFO  : ps7_init is completed.
+17:16:17 INFO  : ps7_post_config is completed.
+17:16:28 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:16:29 INFO  : System reset is completed.
+17:16:29 INFO  : ps7_init is completed.
+17:16:29 INFO  : ps7_post_config is completed.
+17:17:29 INFO  : System reset is completed.
+17:17:29 INFO  : ps7_init is completed.
+17:17:29 INFO  : ps7_post_config is completed.
+18:18:45 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:19:33 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:19:35 INFO  : System reset is completed.
+18:19:35 INFO  : ps7_init is completed.
+18:19:35 INFO  : ps7_post_config is completed.
+18:20:41 INFO  : System reset is completed.
+18:20:41 INFO  : ps7_init is completed.
+18:20:41 INFO  : ps7_post_config is completed.
+18:21:47 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:21:48 INFO  : System reset is completed.
+18:21:49 INFO  : ps7_init is completed.
+18:21:49 INFO  : ps7_post_config is completed.
+18:22:25 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:22:26 INFO  : System reset is completed.
+18:22:26 INFO  : ps7_init is completed.
+18:22:26 INFO  : ps7_post_config is completed.
+18:24:00 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:24:01 INFO  : System reset is completed.
+18:24:01 INFO  : ps7_init is completed.
+18:24:01 INFO  : ps7_post_config is completed.
+18:25:05 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:25:06 INFO  : System reset is completed.
+18:25:06 INFO  : ps7_init is completed.
+18:25:07 INFO  : ps7_post_config is completed.
+18:27:04 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:27:05 INFO  : System reset is completed.
+18:27:05 INFO  : ps7_init is completed.
+18:27:05 INFO  : ps7_post_config is completed.
+18:27:13 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:27:15 INFO  : System reset is completed.
+18:27:15 INFO  : ps7_init is completed.
+18:27:15 INFO  : ps7_post_config is completed.
+18:29:03 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:29:04 INFO  : System reset is completed.
+18:29:05 INFO  : ps7_init is completed.
+18:29:05 INFO  : ps7_post_config is completed.
+18:29:46 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:29:47 INFO  : System reset is completed.
+18:29:48 INFO  : ps7_init is completed.
+18:29:48 INFO  : ps7_post_config is completed.
+18:31:45 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:31:46 INFO  : System reset is completed.
+18:31:46 INFO  : ps7_init is completed.
+18:31:46 INFO  : ps7_post_config is completed.
+18:32:25 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:32:26 INFO  : System reset is completed.
+18:32:26 INFO  : ps7_init is completed.
+18:32:26 INFO  : ps7_post_config is completed.
+18:32:55 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:32:57 INFO  : System reset is completed.
+18:32:57 INFO  : ps7_init is completed.
+18:32:57 INFO  : ps7_post_config is completed.
+18:33:29 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:33:31 INFO  : System reset is completed.
+18:33:31 INFO  : ps7_init is completed.
+18:33:31 INFO  : ps7_post_config is completed.
+18:39:59 ERROR : Unable to disconnect from existing targets
+java.lang.NullPointerException
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess.issueCommand(XMDJSONProcess.java:144)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(TM.java:317)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:306)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:210)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$2.run(BundleContextImpl.java:771)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:764)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.stopWorker(BundleHost.java:510)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.suspend(AbstractBundle.java:566)
+	at org.eclipse.osgi.framework.internal.core.Framework.suspendBundle(Framework.java:1206)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.decFWSL(StartLevelManager.java:592)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:257)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.shutdown(StartLevelManager.java:215)
+	at org.eclipse.osgi.framework.internal.core.InternalSystemBundle.suspend(InternalSystemBundle.java:284)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:692)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:600)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+18:39:59 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+18:42:21 INFO  : Processing command line option -hwspec C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+18:42:23 INFO  : Checking for hwspec changes in the project ps_gpio_wrapper_hw_platform_0.
+18:42:24 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+18:45:41 INFO  : System reset is completed.
+18:45:41 INFO  : ps7_init is completed.
+18:45:41 INFO  : ps7_post_config is completed.
+15:24:53 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+12:03:24 INFO  : Processing command line option -hwspec C:/Users/ravishm/gpio_ps/gpio_ps.sdk/ps_gpio_wrapper.hdf.
+12:03:25 WARN  : Unable to obtain port 2450 for use by XSDB Server, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+12:03:26 INFO  : Checking for hwspec changes in the project ps_gpio_wrapper_hw_platform_0.
+12:03:27 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.3.1/scripts/xsdb/xsdb/xsdb-server.tcl 2457
